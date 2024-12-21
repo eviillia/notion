@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "fi0bs8x6g",
+      "email": "sefalooo31@gmail.com",
+      "nickname": "Dasha",
+      "password": "sefalooo31Q",
+      "createdAt": "11.12.2024, 16:02:03"
+    },
+    {
+      "id": "vdttdkcb4",
+      "email": "sefalooo31@gmail.com",
+      "nickname": "jfhjfh",
+      "password": "sefalooo31Q",
+      "createdAt": "11.12.2024, 16:08:25"
+    },
+    {
+      "id": "kenav7i1x",
+      "email": "email@gmail.com",
+      "nickname": "Nickname",
+      "password": "password123P",
+      "createdAt": "21.12.2024, 22:59:48"
+    }
+  ],
+  "notes": [
+    {
+      "id": "896ck0aiw",
+      "userId": "fi0bs8x6g",
+      "title": "дмдплдплп",
+      "body": "адалдаладла",
+      "createdAt": "2024-12-11T13:08:41.666Z"
+    },
+    {
+      "id": "v0f5x9hhg",
+      "userId": "kenav7i1x",
+      "title": "Название заметки",
+      "body": "Текст заметки",
+      "createdAt": "2024-12-21T20:00:35.773Z"
+    },
+    {
+      "id": "ueqbx0gnw",
+      "userId": "kenav7i1x",
+      "title": "Название заметки",
+      "body": "Текст заметки",
+      "createdAt": "2024-12-21T20:01:09.271Z"
+    }
+  ]
+}
